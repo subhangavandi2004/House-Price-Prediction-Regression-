@@ -1,7 +1,6 @@
 # House Price Prediction (Regression)
 
-An end-to-end regression project that predicts house sale prices from
-property features — living area, quality rating, location, and more.
+Machine learning regression project for predicting house prices using Python, Pandas, Scikit-learn, and feature engineering.
 
 ## Overview
 
